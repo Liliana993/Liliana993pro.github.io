@@ -13,7 +13,7 @@ html{
 }
 
 #Inicio{
-    background: linear-gradient(rgba(19, 18, 18, 0.5), rgba(31, 29, 29, 0.5)), url("img/inicio.jpg");
+    background: linear-gradient(rgba(19, 18, 18, 0.5), rgba(31, 29, 29, 0.5)), url("[![inicio.jpg](https://i.postimg.cc/sXGMDfhf/inicio.jpg)](https://postimg.cc/8JDpZS4x)");
     background-size: cover;
     background-position: center center;
     height: 100vh;
@@ -273,7 +273,7 @@ letter-spacing: 2px;
 /*SECCION SKILLS*/
 
 .contenedor-skills{
-    background: linear-gradient(#af5aebcc, rgba(33,16,16,.8)), url('img/skills-foto.jpg');
+    background: linear-gradient(#af5aebcc, rgba(33,16,16,.8)), url('[![skills-foto.jpg](https://i.postimg.cc/QMgFBNNj/skills-foto.jpg)](https://postimg.cc/8F5p9SrY)');
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
